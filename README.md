@@ -24,10 +24,11 @@ Cost differences between smokers and non-smokers.
 Regional variations in insurance expenses.
 
 Technology Stack
+
 MySQL: Data querying and analysis.
-Power BI: Visualization of insights (if applicable).
+
+Power BI: Visualization of insights 
+
 GitHub: Project documentation and version control.
 
-SQL: Data querying and analysis.
-Power BI: Visualization of insights (if applicable).
-GitHub: Project documentation and version control.
+
