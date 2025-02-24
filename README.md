@@ -7,6 +7,8 @@ This project explores medical costs using SQL to analyze key factors influencing
 Dataset
 Source: [Kaggle](https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset)
 
+**Key Analyses & Insights**
+
 **Descriptive Statistics-**
 
 1)Average, minimum, and maximum insurance charges.
