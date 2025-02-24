@@ -1,28 +1,33 @@
 # SQL-MEDICAL-COST-EDA
 
-Project Overview
+**Project Overview**
 
 This project explores medical costs using SQL to analyze key factors influencing healthcare expenses. The dataset includes patient demographics, health-related attributes, and insurance charges. The goal is to derive insights into cost patterns, correlations, and trends in medical insurance expenses.
 
 Dataset
 Source: [Kaggle](https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset)
 
-**Descriptive Statistics**
+**Descriptive Statistics-**
 
-Average, minimum, and maximum insurance charges.
-Distribution of charges across different demographic groups.
+1)Average, minimum, and maximum insurance charges.
 
-**Correlation Analysis**
+2)Distribution of charges across different demographic groups.
 
-Relationship between age, bmi, and charges.
-Impact of smoking status on insurance costs.
-Comparison of charges across different regions.
+**Correlation Analysis-**
+
+1)Relationship between age, bmi, and charges.
+
+2)Impact of smoking status on insurance costs.
+
+3)Comparison of charges across different regions.
 
 **Grouping & Aggregations**
 
-Average insurance costs by age group and BMI category.
-Cost differences between smokers and non-smokers.
-Regional variations in insurance expenses.
+1)Average insurance costs by age group and BMI category.
+
+2)Cost differences between smokers and non-smokers.
+
+3)Regional variations in insurance expenses.
 
 **Technology Stack**
 
