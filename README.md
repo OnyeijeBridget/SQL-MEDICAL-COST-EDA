@@ -21,7 +21,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/nanditapore/medical-cost-datase
 
 3)Comparison of charges across different regions.
 
-**Grouping & Aggregations**
+**Grouping & Aggregations-**
 
 1)Average insurance costs by age group and BMI category.
 
@@ -29,7 +29,7 @@ Source: [Kaggle](https://www.kaggle.com/datasets/nanditapore/medical-cost-datase
 
 3)Regional variations in insurance expenses.
 
-**Technology Stack**
+**Technology Stack-**
 
 **MySQL:** Data querying and analysis.
 
