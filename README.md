@@ -7,24 +7,24 @@ This project explores medical costs using SQL to analyze key factors influencing
 Dataset
 Source: [Kaggle](https://www.kaggle.com/datasets/nanditapore/medical-cost-dataset)
 
-_Descriptive Statistics_
+*Descriptive Statistics*
 
 Average, minimum, and maximum insurance charges.
 Distribution of charges across different demographic groups.
 
-_Correlation Analysis_
+*Correlation Analysis*
 
 Relationship between age, bmi, and charges.
 Impact of smoking status on insurance costs.
 Comparison of charges across different regions.
 
-_Grouping & Aggregations_
+*Grouping & Aggregations*
 
 Average insurance costs by age group and BMI category.
 Cost differences between smokers and non-smokers.
 Regional variations in insurance expenses.
 
-_Technology Stack_
+*Technology Stack*
 
 _MySQL:_ Data querying and analysis.
 
